@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/3146da55-4d65-405d-80a2-f2f304973918)# Amazon-clone
+# Amazon-clone
 🛍️ Amazon Clone
 A responsive front-end clone of the Amazon India homepage using HTML, CSS, and Font Awesome. This project replicates the basic layout and design of the Amazon website, including the navbar, search bar, dropdowns, product categories, and footer.
 
 📸 Preview
 
 ![preview](https://github.com/user-attachments/assets/3b736c3c-21c2-4303-823b-0f9daceddd84)
-![Uploading Screenshot 2025-07-08 114142.png…]()
+![image](https://github.com/user-attachments/assets/3146da55-4d65-405d-80a2-f2f304973918
 
 
 🚀 Features
