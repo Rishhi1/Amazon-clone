@@ -4,7 +4,7 @@ A responsive front-end clone of the Amazon India homepage using HTML, CSS, and F
 
 📸 Preview
 
-<sup>(Add a screenshot named preview.jpg in your repo root to display here.)</sup>
+<sup>preview.jpg</sup>
 
 🚀 Features
 Responsive navigation bar with:
