@@ -6,6 +6,8 @@ A responsive front-end clone of the Amazon India homepage using HTML, CSS, and F
 
 ![preview](https://github.com/user-attachments/assets/3b736c3c-21c2-4303-823b-0f9daceddd84)
 
+![preview2](https://github.com/user-attachments/assets/f71e1587-14bf-444f-a5bf-6ddd87fa4909)
+
 
 
 🚀 Features
